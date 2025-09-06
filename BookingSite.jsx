@@ -1,0 +1,1 @@
+// BookingSite component code goes here (the one we already prepared)
